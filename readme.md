@@ -1,11 +1,5 @@
 <p align="left"><img src="https://rahulvijayam.com/wp-content/uploads/2021/11/1-2-1024x576.jpg" alt="Laravel Ecommerce Project " width="500"></p>
 
- 
-
-## Laravel Ecommerce Project with Complete Source Code
-
-The Laravel Ecommerce Project with Complete Source Code is a PHP-based web application, For a detailed features, and functionalities of the Laravel Ecommerce Project, please visit my blog 👇 <br>
-🌐 http://rahulvijayam.com/laravel-ecommerce-project-complete-source-code
 
 ## Features
 - User Dashboard
@@ -28,7 +22,7 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 -   Composer Version 2 
 ## Installation Steps 
 
-1.  <code> composer create-project rahulvijayam/ecommerce </code>
+1.  <code> composer create-project</code>
 2. Create database for  your project with the name as <code>gainaloe</code>
 3. Now Run <code>php artisan migrate</code> command for creating all the tables 
 4. Add your email credentials in <code>.env</code> file
@@ -37,15 +31,9 @@ The Laravel Ecommerce Project with Complete Source Code is a PHP-based web appli
 
 ## Generate Sample Data ( Optional)
 1. Remove tables(products, users) from the  database.
-2. Run two files present in this link https://github.com/RahulVijayam/ecommerce/tree/master/public/sql on your database
+2. Run two files present in this link https://github.com/loyalperson/Ecommerce-Laravel-First.git/tree/master/public/sql on your database
 3. Finished, Now Check it in your browser using http://127.0.0.1:8000
 
-### Dashboard Details
-- Admin : http://127.0.0.1:8000/admin-dash
-    -   Login Id : rahulvijayanagaram@gmail.com
-    -   Password : 111111111
-- User  : http://127.0.0.1:8000/dashboard 
- 
 ### Watch Video
  [![Everything Is AWESOME](https://user-images.githubusercontent.com/36434065/141663839-bb06d652-1be7-4124-b3ba-76e6354bf456.png)](https://www.youtube.com/watch?v=TRr5OQ3YVIE "Watch Video")
 
